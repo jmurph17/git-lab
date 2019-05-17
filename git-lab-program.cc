@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Jacob Murphy
  *        Date: 5/16/2017
- * Description: Homework 1 Part 15
+ * Description: Homework 1 Part 15, Output Hello Git!
  */
 
 #include <iostream>
